@@ -9,9 +9,11 @@
 
 - 💬 Ask me about **Node,React,C,C++**
 
-- 📫 How to reach me **darrendsa007@gmail.com**
+- 📫 How to reach me: darrendsa007@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+- ⚡ Fun fact: My ideal evening involves a good book, a guitar, and a challenging DSA problem.
+
+ <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/darrendsa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darrendsa1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/darren-d-sa-99149b28a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darren-d-sa-99149b28a" height="30" width="40" /></a>
