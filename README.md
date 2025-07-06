@@ -7,14 +7,14 @@
 ---
 
 ### 🛠️ Currently Working On
-- 🔭 Building **LegalLink** – a Legal Tech solution for accessible justice
+- 🔭 Building **LegalLink** – a Legal Tech solution for accessible justice  
 - 🌱 Exploring **Next.js** for better SSR in full-stack apps
 
 ---
 
 ### 🧠 Ask Me About
-- 💬 MERN Stack (MongoDB, Express, React, Node)
-- 💻 C, C++, REST APIs, Firebase
+- 💬 MERN Stack (MongoDB, Express, React, Node)  
+- 💻 C, C++, JavaScript
 
 ---
 
@@ -24,15 +24,15 @@
 ---
 
 ### 📫 Let's Connect
-<p align="left">
-  <a href="https://twitter.com/darrendsa1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30" /></a>
-  <a href="https://linkedin.com/in/darren-d-sa-99149b28a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
+<p align="center">
+  <a href="https://twitter.com/darrendsa1" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/darren-d-sa-99149b28a" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
 </p>
 
 ---
 
 ### 🛠️ Languages and Tools
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
@@ -51,20 +51,22 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darren0411&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darren0411&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darren0411" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darren0411&show_icons=true&theme=default&locale=en" alt="Darren's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darren0411&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darren0411&theme=default" alt="GitHub Streak" />
+</div>
 
 ---
 
 ### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/Darren0411/Darren0411/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Darren0411/Darren0411/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
-
